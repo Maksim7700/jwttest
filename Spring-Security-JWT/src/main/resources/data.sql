@@ -1,0 +1,14 @@
+INSERT into USER (id, username, password, age) values (0, 'user1', 'p1', 20);
+INSERT into USER (id, username, password, age) values (1, 'user2', 'p2', 21);
+INSERT into USER (id, username, password, age) values (2, 'user3', 'p3', 22);
+INSERT into USER (id, username, password, age) values (3, 'user4', 'p4', 23);
+INSERT into USER (id, username, password, age) values (4, 'user5', 'p5', 24);
+insert into ARTICLE(id, text, color, u_id) values (0, 'text', 1, 0);
+insert into ARTICLE(id, text, color, u_id) values (1, 'text1', 2, 0);
+insert into ARTICLE(id, text, color, u_id) values (2, 'text2', 3, 0);
+insert into ARTICLE(id, text, color, u_id) values (3, 'text3', 1, 1);
+insert into ARTICLE(id, text, color, u_id) values (4, 'text4', 2, 2);
+insert into ARTICLE(id, text, color, u_id) values (5, 'text5', 3, 3);
+insert into ARTICLE(id, text, color, u_id) values (6, 'text6', 1, 4);
+insert into ARTICLE(id, text, color, u_id) values (7, 'text7', 3, 4);
+insert into ARTICLE(id, text, color, u_id) values (8, 'text8', 3, 0);
